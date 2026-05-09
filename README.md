@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository presents the research framework and conceptual development of a smartphone-based retinal imaging and computational hyperspectral analysis system for Alzheimer’s-associated risk screening.
+This repository documents the conceptual development and research framework of a smartphone-based retinal hyperspectral imaging system for Alzheimer’s-associated risk screening.
 
-The project investigates the feasibility of identifying retinal spectral and microvascular biomarkers associated with neurodegenerative risk patterns using consumer-grade retinal fundus imaging combined with deep learning-based analysis.
+The work explores whether computational hyperspectral reconstruction from smartphone-acquired retinal fundus images can support AI-assisted detection of retinal biomarkers associated with neurodegenerative risk patterns.
 
 The proposed framework integrates:
 
@@ -57,8 +57,9 @@ My contribution to this project primarily focused on:
 - System-level framework planning and research direction development
 - Supporting methodological refinement during the early-stage project design process
 
-The implementation, model training, and deployment components were collaboratively developed by project team members.
-Repo: https://github.com/KIRTHANA105/bees.git
+## Related Implementation Repository
+
+The implementation-oriented repository containing software development and model-related work developed by collaborators is available below: https://github.com/KIRTHANA105/bees.git
 
 ## Repository Scope
 
@@ -70,3 +71,8 @@ This repository intentionally focuses on:
 - Project documentation
 
 To protect ongoing unpublished research and future journal submission plans, this repository does NOT currently include Full manuscript and Clinical datasets
+
+## Disclaimer
+
+This repository is intended solely for academic and research documentation purposes.
+The project is currently under ongoing refinement and planned journal submission. Certain implementation details, datasets, and experimental outputs are intentionally withheld at this stage to protect unpublished research material.
